@@ -1,0 +1,70 @@
+body{
+    text-transform: uppercase;
+}
+#presentation img{
+    width: 100px;
+    height: 150px;
+    float: right;
+    margin-right: 300PX;
+    margin-top: 20PX;
+}
+#presentation ul{
+    margin-left: 80PX;
+    margin-top: 20PX;
+    line-height: 35PX;
+    font-weight: bold;
+}
+ul{
+    list-style: none;
+}
+.experience h4{
+    border: 1PX #000 solid;
+    text-align: center;
+    padding-top: 5PX;
+    padding-bottom: 5PX;
+    width: 800PX;
+    margin-left: 200PX;
+    background-color: rgb(155, 155, 192);
+    color: rgb(27, 12, 12);
+
+}
+.experience ul{
+    margin-left: 80PX;
+    line-height: 35PX;
+    font-weight: bold;
+
+}
+.formations h4{
+    border: 1PX #000 solid;
+    text-align: center;
+    padding-top: 5PX;
+    padding-bottom: 5PX;
+    width: 800PX;
+    margin-left: 200PX;
+    background-color: rgb(155, 155, 192);
+    color: rgb(27, 12, 12);
+}
+
+.formations ul{
+    margin-left: 80PX;
+    line-height: 35PX;
+    font-weight: bold;
+
+}
+.divers h4{
+    border: 1PX #000 solid;
+    text-align: center;
+    padding-top: 5PX;
+    padding-bottom: 5PX;
+    width: 800PX;
+    margin-left: 200PX;
+    background-color: rgb(155, 155, 192);
+    color: rgb(27, 12, 12);
+
+}
+.divers ul{
+    margin-left: 80PX;
+    line-height: 35PX;
+    font-weight: bold;
+
+}
